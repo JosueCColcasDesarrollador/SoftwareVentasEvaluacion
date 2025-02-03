@@ -80,9 +80,10 @@ Esta es la Portada del Software cuando Iniciamos es una Presentación para Incen
 
 ![Img](https://github.com/JosueCColcasDesarrollador/SoftwareVentasEvaluacion/blob/main/dise%C3%B1o_proyect/dise%C3%B1o_01.jpeg)
 
-Esta es la Portada del Software cuando Iniciamos es una Presentación para Incentivar a los Expectadores a Adquirir un Sistema con el Fin de Hacerles Generar mas Ganancias a sus Negocios de Manera Optimizada.
-
 ![Img](https://github.com/JosueCColcasDesarrollador/SoftwareVentasEvaluacion/blob/main/dise%C3%B1o_proyect/dise%C3%B1o_02.jpeg)
+
+
+
 ![Img](https://github.com/JosueCColcasDesarrollador/SoftwareVentasEvaluacion/blob/main/dise%C3%B1o_proyect/dise%C3%B1o_03.jpeg)
 ![Img](https://github.com/JosueCColcasDesarrollador/SoftwareVentasEvaluacion/blob/main/dise%C3%B1o_proyect/dise%C3%B1o_04.jpeg)
 ![Img](https://github.com/JosueCColcasDesarrollador/SoftwareVentasEvaluacion/blob/main/dise%C3%B1o_proyect/dise%C3%B1o_05.jpeg)
