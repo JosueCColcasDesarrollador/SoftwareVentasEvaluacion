@@ -79,6 +79,20 @@ php artisan serve
 - Obtenga más información sobre este proyecto [aquí](https://www.youtube.com/@Andre_Raton).
 - Puedes Escribirme por Tiktok para cualquier Consulta del Proyecto [aquí](https://www.tiktok.com/@blankuskaladoguita)
 
-![Img](https://github.com/JosueCColcasDesarrollador/ProyectoEvaluacion/blob/main/diagrama_basedatos/tablas_part01.jpeg)
+![Img](https://github.com/JosueCColcasDesarrollador/ProyectoEvaluacion/blob/main/diseño_proyect/diseño_01.jpeg)
+![Img](https://github.com/JosueCColcasDesarrollador/ProyectoEvaluacion/blob/main/diseño_proyect/diseño_02.jpeg)
+![Img](https://github.com/JosueCColcasDesarrollador/ProyectoEvaluacion/blob/main/diseño_proyect/diseño_03.jpeg)
+![Img](https://github.com/JosueCColcasDesarrollador/ProyectoEvaluacion/blob/main/diseño_proyect/diseño_04.jpeg)
+![Img](https://github.com/JosueCColcasDesarrollador/ProyectoEvaluacion/blob/main/diseño_proyect/diseño_05.jpeg)
+![Img](https://github.com/JosueCColcasDesarrollador/ProyectoEvaluacion/blob/main/diseño_proyect/diseño_06.jpeg)
+![Img](https://github.com/JosueCColcasDesarrollador/ProyectoEvaluacion/blob/main/diseño_proyect/diseño_07.jpeg)
+![Img](https://github.com/JosueCColcasDesarrollador/ProyectoEvaluacion/blob/main/diseño_proyect/diseño_08.jpeg)
+![Img](https://github.com/JosueCColcasDesarrollador/ProyectoEvaluacion/blob/main/diseño_proyect/diseño_09.jpeg)
+![Img](https://github.com/JosueCColcasDesarrollador/ProyectoEvaluacion/blob/main/diseño_proyect/diseño_10.jpeg)
+![Img](https://github.com/JosueCColcasDesarrollador/ProyectoEvaluacion/blob/main/diseño_proyect/diseño_11.jpeg)
+![Img](https://github.com/JosueCColcasDesarrollador/ProyectoEvaluacion/blob/main/diseño_proyect/diseño_12.jpeg)
+![Img](https://github.com/JosueCColcasDesarrollador/ProyectoEvaluacion/blob/main/diseño_proyect/diseño_13.jpeg)
+![Img](https://github.com/JosueCColcasDesarrollador/ProyectoEvaluacion/blob/main/diseño_proyect/diseño_14.jpeg)
+![Img](https://github.com/JosueCColcasDesarrollador/ProyectoEvaluacion/blob/main/diseño_proyect/diseño_15.jpeg)
 
 ------------
