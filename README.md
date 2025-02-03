@@ -76,10 +76,12 @@ php artisan serve
 
 # DISEÑO Y EXPLICACION DEL SOFTWARE
 
-- Obtenga más información sobre este proyecto [aquí](https://www.youtube.com/@Andre_Raton).
-- Puedes Escribirme por Tiktok para cualquier Consulta del Proyecto [aquí](https://www.tiktok.com/@blankuskaladoguita)
+Esta es la Portada del Software cuando Iniciamos es una Presentación para Incentivar a los Expectadores a Adquirir un Sistema con el Fin de Hacerles Generar mas Ganancias a sus Negocios de Manera Optimizada.
 
 ![Img](https://github.com/JosueCColcasDesarrollador/SoftwareVentasEvaluacion/blob/main/dise%C3%B1o_proyect/dise%C3%B1o_01.jpeg)
+
+Esta es la Portada del Software cuando Iniciamos es una Presentación para Incentivar a los Expectadores a Adquirir un Sistema con el Fin de Hacerles Generar mas Ganancias a sus Negocios de Manera Optimizada.
+
 ![Img](https://github.com/JosueCColcasDesarrollador/SoftwareVentasEvaluacion/blob/main/dise%C3%B1o_proyect/dise%C3%B1o_02.jpeg)
 ![Img](https://github.com/JosueCColcasDesarrollador/SoftwareVentasEvaluacion/blob/main/dise%C3%B1o_proyect/dise%C3%B1o_03.jpeg)
 ![Img](https://github.com/JosueCColcasDesarrollador/SoftwareVentasEvaluacion/blob/main/dise%C3%B1o_proyect/dise%C3%B1o_04.jpeg)
