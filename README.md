@@ -2,8 +2,6 @@
 
 [![Alt text](https://img.youtube.com/vi/XprJTfJQiU0/0.jpg)](https://www.youtube.com/watch?v=XprJTfJQiU0)
 
-![Img](https://github.com/JosueCColcasDesarrollador/ProyectoEvaluacion/blob/main/diagrama_basedatos/tablas_part01.jpeg)
-
 # SOFTWARE DE VENTAS
 
 ## Requerimientos
