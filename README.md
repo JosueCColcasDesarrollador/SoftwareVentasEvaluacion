@@ -82,20 +82,56 @@ Esta es la Portada del Software cuando Iniciamos es una Presentación para Incen
 
 ![Img](https://github.com/JosueCColcasDesarrollador/SoftwareVentasEvaluacion/blob/main/dise%C3%B1o_proyect/dise%C3%B1o_02.jpeg)
 
-
+En Esta Captura Podemos Aprecias el Login para Iniciar Sesión en el Sistema te pedirá ingresar tu Correo y tu Contraseña, Con la Finalidad de poder acceder al Software de Ventas.
 
 ![Img](https://github.com/JosueCColcasDesarrollador/SoftwareVentasEvaluacion/blob/main/dise%C3%B1o_proyect/dise%C3%B1o_03.jpeg)
+
+Luego de Loguearnos, Ingresaremos al Sistemas donde nos dará la bienvenida con una ventanita Flotante asi como se muestra en la captura con Nuestros Nombres Completos Ingresador en Nuestro Usuario.
+
 ![Img](https://github.com/JosueCColcasDesarrollador/SoftwareVentasEvaluacion/blob/main/dise%C3%B1o_proyect/dise%C3%B1o_04.jpeg)
+
+En esta Parte es la Interface donde podremos apreciar las cantidades de Datos Ingresados al Sistema mejor dicho como un  Reportes de todos los datos que Ingresemos se estaren sumando en estos cuadritos de Colores que podemos Apreciar.
+
 ![Img](https://github.com/JosueCColcasDesarrollador/SoftwareVentasEvaluacion/blob/main/dise%C3%B1o_proyect/dise%C3%B1o_05.jpeg)
+
+En Esta captura tenemos Los Roles en esta pagina podremos Ingresar, Modificar y Eliminar los datos y darle un rol adecuado a cada participante para el sistema.
+
 ![Img](https://github.com/JosueCColcasDesarrollador/SoftwareVentasEvaluacion/blob/main/dise%C3%B1o_proyect/dise%C3%B1o_06.jpeg)
+
+En la pagina de Usuario podremos es Ingresar, Modificar y Eliminar los Usurios. Y ahí que tener presente una cosa que solo se podrá ingresar un solo Correo Electronico Unico ósea quiere decir que no se podrá ingresar mas de dos Correos Electrónicos Iguales.
+
 ![Img](https://github.com/JosueCColcasDesarrollador/SoftwareVentasEvaluacion/blob/main/dise%C3%B1o_proyect/dise%C3%B1o_07.jpeg)
+
+En la Pagina de Proveedores podremos Ingresar, Modificar y Ahí algo diferente al Eliminar Un dato no se eliminara sino se desactivara. También Podremos volverla a Activar el datos Eliminado con el Boton de Restaurar que tiene esta función la Pagina.
+
 ![Img](https://github.com/JosueCColcasDesarrollador/SoftwareVentasEvaluacion/blob/main/dise%C3%B1o_proyect/dise%C3%B1o_08.jpeg)
+
+En la Pagina de Clientes podremos Ingresar, Modificar y Ahí algo diferente al Eliminar Un dato no se eliminara sino se desactivara. También Podremos volverla a Activar el datos Eliminado con el Boton de Restaurar que tiene esta función la Pagina.
+
 ![Img](https://github.com/JosueCColcasDesarrollador/SoftwareVentasEvaluacion/blob/main/dise%C3%B1o_proyect/dise%C3%B1o_09.jpeg)
+
+En la Pagina de Marcas podremos Ingresar, Modificar y Ahí algo diferente al Eliminar Un dato no se eliminara sino se desactivara. También Podremos volverla a Activar el datos Eliminado con el Boton de Restaurar que tenie esta función la Pagina.
+
 ![Img](https://github.com/JosueCColcasDesarrollador/SoftwareVentasEvaluacion/blob/main/dise%C3%B1o_proyect/dise%C3%B1o_10.jpeg)
+
+En la Pagina de Categoria podremos Ingresar, Modificar y Ahí algo diferente al Eliminar Un dato no se eliminara sino se desactivara. También Podremos volverla a Activar el datos Eliminado con el Boton de Restaurar que tiene esta función la Pagina.
+
 ![Img](https://github.com/JosueCColcasDesarrollador/SoftwareVentasEvaluacion/blob/main/dise%C3%B1o_proyect/dise%C3%B1o_11.jpeg)
+
+En la Pagina de Presentaciones podremos Ingresar, Modificar y Ahí algo diferente al Eliminar Un dato no se eliminara sino se desactivara. También Podremos volverla a Activar el datos Eliminado con el Boton de Restaurar que tiene esta función la Pagina.
+
 ![Img](https://github.com/JosueCColcasDesarrollador/SoftwareVentasEvaluacion/blob/main/dise%C3%B1o_proyect/dise%C3%B1o_12.jpeg)
+
+En la Pagina de Productos podremos Ingresar, Modificar y Ahí algo diferente al Eliminar Un dato no se eliminara sino se desactivara. También Podremos volverla a Activar el datos Eliminado con el Boton de Restaurar que tiene esta función la Pagina.
+
 ![Img](https://github.com/JosueCColcasDesarrollador/SoftwareVentasEvaluacion/blob/main/dise%C3%B1o_proyect/dise%C3%B1o_13.jpeg)
+
+En la Pagina de Compras podremos Ingresar, Eliminar y Ver las Compras.
+
 ![Img](https://github.com/JosueCColcasDesarrollador/SoftwareVentasEvaluacion/blob/main/dise%C3%B1o_proyect/dise%C3%B1o_14.jpeg)
+
+En la Pagina de Ventas podremos Ingresar, Eliminar y Ver las Compras. Para más Información detallada del Software te dejo un Link bien Explicado. [aquí](https://www.youtube.com/@Andre_Raton).
+
 ![Img](https://github.com/JosueCColcasDesarrollador/SoftwareVentasEvaluacion/blob/main/dise%C3%B1o_proyect/dise%C3%B1o_15.jpeg)
 
 ------------
