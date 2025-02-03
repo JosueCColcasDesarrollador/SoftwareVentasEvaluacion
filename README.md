@@ -1,6 +1,6 @@
 ------------
 
-[![Alt text](https://img.youtube.com/vi/XprJTfJQiU0/0.jpg)](https://www.youtube.com/watch?v=XprJTfJQiU0)
+[![Alt text](https://img.youtube.com/vi/0WzBeb2W3hI/0.jpg)](https://www.youtube.com/watch?v=0WzBeb2W3hI)
 
 # SOFTWARE DE VENTAS
 
